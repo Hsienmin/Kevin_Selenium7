@@ -6,7 +6,7 @@
     <TestSessionTimeout>60000</TestSessionTimeout>
   </RunConfiguration>
   <TestRunParameters>
-    <Parameter name="webAppUrl" value="https://dotnet.microsoft.com/" />
+    <Parameter name="webAppUrl" value="http://teamsportaldemo.azurewebsites.net/" />
     <Parameter name="headless" value="true" />
   </TestRunParameters>
 </RunSettings>
